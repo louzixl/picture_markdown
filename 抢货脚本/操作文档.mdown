@@ -15,4 +15,10 @@ var interval = setInterval(function() {
 	}
 },5000);
 ```
-#### 操作（Chrome浏览器）
+#### 操作（默认使用谷歌浏览器，IE浏览器操作方法差不多）
+1. 打开某一商品购买页，如[图1](https://raw.githubusercontent.com/louzixl/picture_markdown/master/%E6%8A%A2%E8%B4%A7%E8%84%9A%E6%9C%AC/%E5%95%86%E5%93%81%E9%A1%B5%E9%9D%A2.png)
+2. 立即购买处点击右键，选择最底部“检查”（没货商品此处不是立即购买）(若无法右键直接点击F12即可)，如[图2](https://raw.githubusercontent.com/louzixl/picture_markdown/master/%E6%8A%A2%E8%B4%A7%E8%84%9A%E6%9C%AC/%E5%8F%B3%E9%94%AE%E6%A3%80%E6%9F%A5.png)
+3. 打开并进入开发界面，如[图3](https://raw.githubusercontent.com/louzixl/picture_markdown/master/%E6%8A%A2%E8%B4%A7%E8%84%9A%E6%9C%AC/%E6%89%93%E5%BC%80%E5%BC%80%E5%8F%91%E7%95%8C%E9%9D%A2.png)
+4. 选择第2项“console”，点击图示标志处，清空命令行，如[图4](https://raw.githubusercontent.com/louzixl/picture_markdown/master/%E6%8A%A2%E8%B4%A7%E8%84%9A%E6%9C%AC/%E5%91%BD%E4%BB%A4%E8%A1%8C.png)
+5. 将代码粘贴到命令行，如[图5](https://raw.githubusercontent.com/louzixl/picture_markdown/master/%E6%8A%A2%E8%B4%A7%E8%84%9A%E6%9C%AC/%E7%B2%98%E8%B4%B4%E4%BB%A3%E7%A0%81.png)
+6. 单击回车键运行代码（IE浏览器是点击右边绿色三角号运行代码，如[图7](https://raw.githubusercontent.com/louzixl/picture_markdown/master/%E6%8A%A2%E8%B4%A7%E8%84%9A%E6%9C%AC/IE.png)），如[图6](https://raw.githubusercontent.com/louzixl/picture_markdown/master/%E6%8A%A2%E8%B4%A7%E8%84%9A%E6%9C%AC/%E8%BF%90%E8%A1%8C%E4%BB%A3%E7%A0%81.png)
